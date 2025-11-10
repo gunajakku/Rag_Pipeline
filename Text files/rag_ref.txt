@@ -1,0 +1,16 @@
+Ringg AI is a platform providing AI-powered voice assistants designed primarily for business communication automation. It offers no-code tools and APIs to create, deploy, and manage intelligent voice agents that handle high-volume communication tasks such as lead generation, loan collection, last-mile delivery coordination, appointment scheduling, recruitment calls, and customer support. The platform supports multilingual interactions in 20+ languages, provides human-like conversation experiences, and integrates with business tools like Slack, Microsoft Teams, and Discord for seamless workflows.
+
+Key services include:
+
+Automated outbound and inbound calls for tasks like lead qualification, feedback collection, order confirmations, loan follow-ups, and candidate screening.
+
+Embedded voice agents on business websites for real-time customer interaction.
+
+Advanced analytics on call performance and customer engagement.
+
+Scalable infrastructure with high uptime and low latency.
+
+Smart call transfers to human agents maintaining call context.
+
+Ringg AI is used across industries including banking, logistics, healthcare, education, and direct-to-consumer businesses to improve efficiency, increase conversion rates, and enhance customer experience at scale.​
+
